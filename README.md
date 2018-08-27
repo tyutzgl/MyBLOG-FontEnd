@@ -1,4 +1,4 @@
-# myproject
+# A simple Blog Demo
 
 > A Vue.js project
 
